@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-fly-fly-bird.
-- 👀 I’m interested in CS, jog, badminton and sleep.
+- 👀 I’m interested in computer science, jog, badminton and sleeping.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: asleepychild@gmail.com
