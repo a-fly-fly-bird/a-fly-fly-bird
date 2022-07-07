@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m @a-fly-fly-bird.
 - 🌱 I’m currently learning computer science.
-- 📫 How to reach me: asleepychild@gmail.com
+- 📫 How to reach me: james.y.tan.work@outlook.com
 - 😎 Welcome to visit my Github Pages: https://a-fly-fly-bird.github.io/
 
 
