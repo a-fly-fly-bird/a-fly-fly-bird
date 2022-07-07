@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" style="width:300px; height:100px" alt="GIF" src="https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/coder.gif" />
 
 - 👋 Hi, I’m @a-fly-fly-bird.
 - 🌱 I’m currently learning computer science in CQU.
