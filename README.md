@@ -17,8 +17,9 @@
 ### Info About Me
 
 - 👋 Hi, I’m @a-fly-fly-bird.
+- 🤠 You can call me Lucas.
 - 🌱 I’m currently learning computer science.
-- 📫 How to reach me: james.y.tan.work@outlook.com
+- 📫 How to reach me: lucas.y.tan.life@outlook.com
 - 😎 Welcome to visit my Github Pages: https://a-fly-fly-bird.github.io/
 
 
