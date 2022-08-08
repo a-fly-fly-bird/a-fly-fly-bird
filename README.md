@@ -39,6 +39,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird&exclude_repo=hardware_design&layout=compact)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md) -->
 
 
