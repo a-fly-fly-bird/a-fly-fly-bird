@@ -31,12 +31,12 @@
 ### :zap: Github Stats
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-fly-fly-bird&count_private=true&show_icons=true&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-fly-fly-bird&count_private=true&show_icons=true&theme=vue">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird&exclude_repo=hardware_design&layout=compact">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-fly-fly-bird&count_private=true&show_icons=true&theme=vue)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-fly-fly-bird&count_private=true&show_icons=true&theme=vue)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird&exclude_repo=hardware_design&layout=compact)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-fly-fly-bird&exclude_repo=hardware_design&layout=compact)](https://github.com/a-fly-fly-bird/a-fly-fly-bird/blob/main/README.md)  -->
