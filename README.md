@@ -20,7 +20,7 @@
 - 🤠 You can call me Lucas.
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me: lucas.y.tan.life@outlook.com
-- 😎 Welcome to visit my Github Pages: https://a-fly-fly-bird.github.io/
+- 😎 Welcome to visit my Github Pages: https://www.shadow-diary.fun or https://a-fly-fly-bird.github.io/
 
 
 <br>
