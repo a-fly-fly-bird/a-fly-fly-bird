@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Lucas 👋</b></h1>
+  <h1 align="center"><b>Hi there, I'm Terry. 👋</b></h1>
 </p>
 
 <p>
@@ -17,9 +17,9 @@
 ### Info About Me
 
 - 👋 Hi, I’m @a-fly-fly-bird.
-- 🤠 You can call me Lucas.
+- 🤠 You can call me Terry.
 - 🌱 I’m currently learning computer science.
-- 📫 How to reach me: lucas.y.tan.life@outlook.com
+- 📫 How to reach me: fuling19.me@gmail.com
 - 😎 Welcome to visit my Github Pages: https://www.shadow-diary.fun or https://a-fly-fly-bird.github.io/
 
 
